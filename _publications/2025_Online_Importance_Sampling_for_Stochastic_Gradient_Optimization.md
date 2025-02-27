@@ -6,7 +6,7 @@ permalink: /publication/Online_Importance_Sampling_for_Stochastic_Gradient_Optim
 excerpt: ''
 date: 2025-02-28
 venue: '14th International Conference on Pattern Recognition Applications and Methods'
-conference: 'ICPRAM 2025 (Full Paper)'
+conference: 'ICPRAM 2025 (Full Paper) <span style="color:red"> **Best Student Paper Award**</span>'
 citation: 'Salaun, Corentin. (2025). "Online Importance Sampling for Stochastic Gradient Optimization" <i>ICPRAM 2025</i>.'
 
 header:
