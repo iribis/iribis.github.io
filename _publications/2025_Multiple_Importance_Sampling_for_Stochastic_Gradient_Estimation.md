@@ -7,7 +7,7 @@ excerpt: ''
 date: 2025-02-28
 venue: '14th International Conference on Pattern Recognition Applications and Methods'
 conference: 'ICPRAM 2025 (Short Paper)'
-citation: 'Huang, Xingchang. (2024). "Multiple Importance Sampling for Stochastic Gradient Estimation" <i>SIGGRAPH 2024 Conference Papers</i>.'
+citation: 'Salaun, Corentin. (2025). "Multiple Importance Sampling for Stochastic Gradient Estimation" <i>ICPRAM 2025</i>.'
 
 header:
   teaser: "http://iribis.github.io/files/Multiple_Importance_Sampling_for_Stochastic_Gradient_Estimation/teaser.png"
