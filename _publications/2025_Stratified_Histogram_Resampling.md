@@ -1,6 +1,6 @@
 ---
 title: "Histogram Stratification for Spatio-Temporal Reservoir Sampling"
-authors: <p><a href="https://iribis.github.io/">Corentin Salaün</a>,<a href="https://people.mpi-inf.mpg.de/~mbalint/">Martin Bálint</a>,<a href="https://belcour.github.io/blog/">Laurent Belcour</a>,<a href="https://eheitzresearch.wordpress.com/">Eric Heitz</a>, <a href="https://people.mpi-inf.mpg.de/~gsingh/">Gurprit Singh</a><a href="https://people.mpi-inf.mpg.de/~karol/">Karol Myszkowski</a>,</p>
+authors: <p><a href="https://iribis.github.io/">Corentin Salaün</a>, <a href="https://people.mpi-inf.mpg.de/~mbalint/">Martin Bálint</a>, <a href="https://belcour.github.io/blog/">Laurent Belcour</a>, <a href="https://eheitzresearch.wordpress.com/">Eric Heitz</a>, <a href="https://people.mpi-inf.mpg.de/~gsingh/">Gurprit Singh</a> and <a href="https://people.mpi-inf.mpg.de/~karol/">Karol Myszkowski</a></p>
 collection: publications
 permalink: /publication/2025_Stratified_Histogram_Resampling
 excerpt: ''
