@@ -24,4 +24,5 @@ Additionally, we show how it can be combined with blue noise error distribution 
 
 ### Downloads and links
 - <img width="20px" src="http://iribis.github.io/assets/fonts/file-pdf-solid.svg"> [Paper](http://iribis.github.io/files/Stratified_Histogram_Resampling/paper.pdf)<br />
+- <i class="fas fa-fw fa-link" aria-hidden="true"></i> [Supplementals](http://iribis.github.io/extra/Stratified_Histogram_Resampling/index.html)<br />
 <br />
