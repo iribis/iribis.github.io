@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* 5th year in Graduate Engenering School, ESIR - Rennes France, 2019
+* PhD candidate at Saarland Informatic Campus 2020-Now
+* Graduate Engenering School, ESIR - Rennes France, 2020
 * French High School Leaving Certificate with Honours, Rennes France, 2015
 
 
