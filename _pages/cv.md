@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD candidate at Saarland Informatic Campus 2020-Now
+* PhD candidate at Saarland Informatic Campus (Max Planck Institute) 2020-Now
 * Graduate Engenering School, ESIR - Rennes France, 2020
 * French High School Leaving Certificate with Honours, Rennes France, 2015
 
