@@ -21,9 +21,61 @@ Education
 
 Publications
 ======
-* Histogram Stratification for Spatio‑Temporal Reservoir Sampling
+* **Histogram Stratification for Spatio-Temporal Reservoir Sampling**  
+  <span style="font-size:90%; margin-left:20px;">
     Salaün, Corentin, Martin Balint, Laurent Belcour, Eric Heitz, Gurprit Singh, Karol Myszkowski
-      Proceedings of the Special Interest Group on Computer Graphics and Interactive Techniques Conference Conference Papers, 2025, New York, NY, USA
+  </span><br>
+  <span style="font-size:80%; margin-left:20px;">
+    SIGGRAPH Conference Papers, 2024
+  </span>
+
+* **Multiple importance sampling for stochastic gradient estimation**  
+  <span style="font-size:90%; margin-left:20px;">
+    Salaün, Corentin, Xingchang Huang, Iliyan Georgiev, Niloy Mitra, Gurprit Singh
+  </span><br>
+  <span style="font-size:80%; margin-left:20px;">
+    ICPRAM (short paper), 2025
+  </span>
+
+* **Online Importance Sampling for Stochastic Gradient Optimization**  
+  <span style="font-size:90%; margin-left:20px;">
+    Salaün, Corentin, Xingchang Huang, Iliyan Georgiev, Niloy Mitra, Gurprit Singh
+  </span><br>
+  <span style="font-size:80%; margin-left:20px;">
+    ICPRAM (full paper, best student paper award), 2025
+  </span>
+
+* **Blue noise for diffusion models**  
+  <span style="font-size:90%; margin-left:20px;">
+    Xingchang Huang, Salaün, Corentin, Cristina Vasconcelos, Christian Theobalt, Cengiz Öztireli, Gurprit Singh
+  </span><br>
+  <span style="font-size:80%; margin-left:20px;">
+    SIGGRAPH Conference Proceedings (awarded graphics replicability stamp). 2024
+  </span>
+
+* **Perceptual error optimization for Monte Carlo animation rendering**  
+  <span style="font-size:90%; margin-left:20px;">
+    Miša Korać, Salaün, Corentin, Iliyan Georgiev, Pascal Grittmann, Philipp Slusallek, Karol Myszkowski, Gurprit Singh
+  </span><br>
+  <span style="font-size:80%; margin-left:20px;">
+    SIGGRAPH Asia 2023 Conference Papers, 2023
+  </span>
+
+* **Scalable Multi‑Class Sampling via Filtered Sliced Optimal Transport**  
+  <span style="font-size:90%; margin-left:20px;">
+    Salaün, Corentin, Iliyan Georgiev, Hans‑Peter Seidel, Gurprit Singh
+  </span><br>
+  <span style="font-size:80%; margin-left:20px;">
+    ACM Transactions on Graphics (Proc. ACM SIGGRAPH Asia) pp. 1–14. ACM, 2022
+  </span>
+
+* **Regression‑based Monte Carlo integration**  
+  <span style="font-size:90%; margin-left:20px;">
+    Salaün, Corentin, Adrien Gruson, Binh‑Son Hua, Toshiya Hachisuka, Gurprit Singh
+  </span><br>
+  <span style="font-size:80%; margin-left:20px;">
+    ACM Transactions on Graphics (Proc. ACM SIGGRAPH) pp. 1–14. ACM, 2022
+  </span>
 
 Teaching
 ======
