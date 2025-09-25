@@ -82,6 +82,16 @@ Teaching
 * Realistic Image Synthesis @ Saarland University 2024,2025
 * Mathematics refresher course @ Rennes 1 University 2023,2024
 
+Service
+======
+* Program Committee PerGraVAR 2025
+* Reviewer SIGGRAPH 2023‑2025, SIGGRAPH Asia 2023‑2025, Pacific Graphics 2024
+
+Awards
+======
+* **ICPRAM 2025 Best Student Paper Award**, 2025
+* **ESIR Best Student Project Award ESIR**, 2020
+
 Profesional experience
 ======
 * Summer 2020 : Intership in  research on Blue noise error distribution
@@ -119,16 +129,6 @@ Profesional experience
   * Animator for childrens
   * Team manager for projects
 
-Service
-======
-* Program Committee PerGraVAR 2025
-* Reviewer SIGGRAPH 2023‑2025, SIGGRAPH Asia 2023‑2025, Pacific Graphics 2024
-
-Awards
-======
-* **ICPRAM 2025 Best Student Paper Award**, 2025
-* **ESIR Best Student Project Award ESIR**, 2020
-
 Strengths
 ======
 * C++
@@ -137,7 +137,6 @@ Strengths
 * Image synthesis
   * Raytracing
   * Animation
-
 
 Languages
 ======
