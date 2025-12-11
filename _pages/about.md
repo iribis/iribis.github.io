@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
+I recently completed my PhD at Saarland University (Max Planck Institute for Informatics) under the supervision of Gurprit Singh. I am currently continuing as a postdoctoral researcher at the Max Planck Institute for Informatics with Karol Myszkowski.
 
-I am a PhD student at the Saarland University (Max-Planck-Institut für Informatik) under the supervision of Gurprit Singh. I am working on stochastic Monte Carlo integration methods and their application to light transport simulations.
+My research focuses on Monte Carlo integration for rendering and machine learning, with a particular interest in variance reduction and sampling theory. More recently, I have been exploring how sampling correlations—both per-pixel and across the image domain—can be leveraged to improve real-time physically based rendering, and how perceptual modeling can further guide sampling to maximize visual quality.
 
-My main interests are :
-* Blue noise error distribution
+My main research interests include:
+* Blue-noise error distributions
 * Multiple importance sampling
-* Multi-class sampling
-* General variance reduction tools for Monte Carlo
+* Multi-class and structured sampling
+* General variance-reduction techniques for Monte Carlo methods
 
 # Latest publications
 {% assign last_three_posts = site.publications | sort: 'date' | reverse | slice: 0, 3 %}
