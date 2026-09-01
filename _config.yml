@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Corentin Salaün"
   avatar           : "profile.png"
-  bio              : "Post-Doc at Max-Planck-Institut für Informatik"
-  location         : "Saarbrücken, Germany"
+  bio              : "Maître de conférences (Associate Professor) at Université Claude Bernard Lyon 1"
+  location         : "Lyon, France"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : csalaun@mpi-inf.mpg.de
+  email            : corentin.salaun@univ-lyon1.fr
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

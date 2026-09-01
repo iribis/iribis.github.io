@@ -8,15 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I recently completed my PhD at Saarland University (Max Planck Institute for Informatics) under the supervision of Gurprit Singh. I am currently continuing as a postdoctoral researcher at the Max Planck Institute for Informatics with Karol Myszkowski.
+I am currently a Maître de conférences (Associate Professor) at Université Claude Bernard Lyon 1, where I conduct research at the intersection of computer graphics, rendering, and perception.
 
-My research focuses on Monte Carlo integration for rendering and machine learning, with a particular interest in variance reduction and sampling theory. More recently, I have been exploring how sampling correlations—both per-pixel and across the image domain—can be leveraged to improve real-time physically based rendering, and how perceptual modeling can further guide sampling to maximize visual quality.
+My research focuses on real-time physically based rendering, with a particular interest in sampling, perceptual modeling, and efficient image reconstruction. I am especially interested in understanding how human visual perception can be integrated into rendering algorithms to improve the quality and efficiency of real-time graphics. My work also explores real-time denoising and reconstruction techniques for noisy Monte Carlo rendered images, with the goal of producing high-quality imagery under tight computational constraints.
 
 My main research interests include:
-* Blue-noise error distributions
+* Real-time physically based rendering
+* Monte Carlo sampling and variance reduction
+* Applied perception for computer graphics
+* Perceptual sampling and rendering
+* Real-time denoising and image reconstruction
+* Blue-noise error distributions and sampling correlations
 * Multiple importance sampling
-* Multi-class and structured sampling
-* General variance-reduction techniques for Monte Carlo methods
+* Spatiotemporal sampling and reconstruction
 
 # Latest publications
 {% assign last_three_posts = site.publications | sort: 'date' | reverse | slice: 0, 3 %}
