@@ -11,7 +11,7 @@ citation: 'Bálint, Martin. (2026). "Forget Superresolution, Sample Adaptively (
 
 header:
   teaser: "http://iribis.github.io/files/Forget_Superresolution_Sample_Adaptively/teaser.jpg"
-  thumbnail: "http://iribis.github.io/files/Forget_Superresolution_Sample_Adaptively/thumbnail.png"
+  thumbnail: "http://iribis.github.io/files/Forget_Superresolution_Sample_Adaptively/thumbnail.jpg"
 ---
 
 ![Teaser](http://iribis.github.io/files/Forget_Superresolution_Sample_Adaptively/teaser.jpg)
